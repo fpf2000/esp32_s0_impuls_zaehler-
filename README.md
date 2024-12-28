@@ -3,7 +3,8 @@
 Ziel ist es die Verbraucher über deren Stromzähler
 per S0 impulzähler auszulesen und Zentral zu Dokumentieren.
 
-![Uploading esp32_beschaltung _s0_impuls_.png…]()
+
+![esp32_beschaltung _s0_impuls_](https://github.com/user-attachments/assets/b3823c9f-8337-4ce9-ba40-ccc39c0a2aeb)
 
 
 
